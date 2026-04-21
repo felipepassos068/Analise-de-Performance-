@@ -143,8 +143,8 @@ Todos os elementos são dinâmicos e conectados às tabelas dinâmicas.
 
 ## 👨‍💻 Autor
 
-Felipe Passos de Albuquerque
-Estudante de Ciência da Computação
-Foco em Análise e Ciência de Dados
+* Felipe Passos de Albuquerque
+* Estudante de Ciência da Computação
+* Foco em Análise e Ciência de Dados
 
 ---
