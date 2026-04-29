@@ -114,11 +114,10 @@ Todos os elementos são dinâmicos e conectados às tabelas dinâmicas.
 
 ## 🚀 Como Executar
 
-1. Executar o script Python para gerar a base de dados (opcional)
-2. Abrir o arquivo Excel
-3. Atualizar consultas no Power Query (se necessário)
-4. Navegar até a aba **Dashboard**
-5. Utilizar os filtros para análise
+1. Abrir o arquivo Excel
+2. Atualizar consultas no Power Query (se necessário)
+3. Navegar até a aba **Dashboard**
+4. Utilizar os filtros para análise
 
 ---
 
